@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry excluding="src/" kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/ext/dnsns.jar"/>
+	<classpathentry kind="lib" path="/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/ext/icedtea-sound.jar"/>
+	<classpathentry kind="lib" path="/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/ext/java-atk-wrapper.jar"/>
+	<classpathentry kind="lib" path="/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/ext/localedata.jar"/>
+	<classpathentry kind="lib" path="/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/ext/sunjce_provider.jar"/>
+	<classpathentry kind="lib" path="/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/ext/sunpkcs11.jar"/>
+	<classpathentry kind="lib" path="/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/ext/zipfs.jar"/>
+	<classpathentry kind="lib" path="/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/charsets.jar"/>
+	<classpathentry kind="lib" path="/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/compilefontconfig.jar"/>
+	<classpathentry kind="lib" path="/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/javazic.jar"/>
+	<classpathentry kind="lib" path="/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/jce.jar"/>
+	<classpathentry kind="lib" path="/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/jsse.jar"/>
+	<classpathentry kind="lib" path="/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/management-agent.jar"/>
+	<classpathentry kind="lib" path="/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/resources.jar"/>
+	<classpathentry kind="lib" path="/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rhino.jar"/>
+	<classpathentry kind="lib" path="/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar"/>
+	<classpathentry kind="lib" path="/usr/lib/jvm/java-7-openjdk-amd64/src.zip"/>
+	<classpathentry kind="lib" path="/usr/lib/jvm/java-7-openjdk-amd64/sample/jnlp/servlet/jardiff.jar"/>
+	<classpathentry kind="lib" path="/usr/lib/jvm/java-7-openjdk-amd64/sample/jnlp/servlet/jnlp.jar"/>
+	<classpathentry kind="lib" path="/usr/lib/jvm/java-7-openjdk-amd64/sample/jnlp/servlet/jnlp-servlet.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
